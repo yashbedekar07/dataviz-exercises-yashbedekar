@@ -1,1 +1,1 @@
-# dataviz-exercises-yashbedekar
+# data-viz-class-material-w2026

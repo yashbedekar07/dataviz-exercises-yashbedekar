@@ -1,0 +1,9 @@
+# Jupyter auto-save backups — Git already tracks your changes, these are redundant
+.ipynb_checkpoints/
+
+# Python auto-generated compiled files — recreated automatically, no need to commit
+__pycache__/
+*.pyc
+
+# macOS system file — created automatically by your Mac, not part of the project
+.DS_Store
